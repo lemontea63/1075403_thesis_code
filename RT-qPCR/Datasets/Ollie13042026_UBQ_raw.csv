@@ -1,0 +1,385 @@
+Well,Sample Name,Target Name,Amp Score,Amp Status,Task,Cq,Cq Mean,Cq Standard Deviation,Quantity,Quantity Mean,Quantity Standard Deviation,Intercept,R-Squared,Slope,Efficiency,Auto Threshold,Threshold,Auto Baseline,Baseline Start,Baseline End,Omit
+A17,Sample 1,Target 1,1.048,No Amp,UNKNOWN,36.508,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,33,FALSE
+A18,Sample 1,Target 1,0.964,No Amp,UNKNOWN,36.911,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,33,FALSE
+A19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+A20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+A21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+A22,Sample 1,Target 1,0,No Amp,UNKNOWN,34.693,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+A23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+A24,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+B17,Sample 1,Target 1,0,No Amp,UNKNOWN,37.364,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+B18,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+B19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+B20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+B21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+B22,Sample 1,Target 1,0,No Amp,UNKNOWN,35.589,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+B23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+B24,Sample 1,Target 1,0,No Amp,UNKNOWN,37.308,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+C17,Sample 1,Target 1,0,No Amp,UNKNOWN,30.947,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+C18,Sample 1,Target 1,0,No Amp,UNKNOWN,13.097,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+C19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+C20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+C21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+C22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+C23,Sample 1,Target 1,1.193,No Amp,UNKNOWN,37.756,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+C24,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+D17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+D18,Sample 1,Target 1,0,No Amp,UNKNOWN,13.072,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+D19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+D20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+D21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+D22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+D23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+D24,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E11,Sample 1,Target 1,0,No Amp,UNKNOWN,9.008,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E12,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E13,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E14,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E15,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E16,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E18,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+E24,Sample 1,Target 1,0,No Amp,UNKNOWN,37.873,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F1,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F10,Sample 1,Target 1,0,No Amp,UNKNOWN,35.561,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F11,Sample 1,Target 1,0,No Amp,UNKNOWN,5.411,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F12,Sample 1,Target 1,0,No Amp,UNKNOWN,5.036,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F13,Sample 1,Target 1,0,No Amp,UNKNOWN,36.318,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F14,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F15,Sample 1,Target 1,0,No Amp,UNKNOWN,20.117,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F16,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F18,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F2,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F23,Sample 1,Target 1,0,No Amp,UNKNOWN,38.466,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F24,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F3,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F4,Sample 1,Target 1,0,No Amp,UNKNOWN,7.019,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F5,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F6,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F7,Sample 1,Target 1,0,No Amp,UNKNOWN,3.718,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F8,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+F9,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G1,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G10,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G11,Sample 1,Target 1,0,No Amp,UNKNOWN,3.19,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G12,Sample 1,Target 1,0,No Amp,UNKNOWN,24.035,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G13,Sample 1,Target 1,0,No Amp,UNKNOWN,7.855,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G14,Sample 1,Target 1,0,No Amp,UNKNOWN,5.005,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G15,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G16,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G18,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G2,Sample 1,Target 1,0,No Amp,UNKNOWN,9.118,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G20,Sample 1,Target 1,0,No Amp,UNKNOWN,36.667,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G22,Sample 1,Target 1,0,No Amp,UNKNOWN,34.95,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G24,Sample 1,Target 1,0,No Amp,UNKNOWN,23.989,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G3,Sample 1,Target 1,0,No Amp,UNKNOWN,6.219,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G4,Sample 1,Target 1,0,No Amp,UNKNOWN,23.138,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G5,Sample 1,Target 1,0,No Amp,UNKNOWN,32.211,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G6,Sample 1,Target 1,0,No Amp,UNKNOWN,35.619,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G7,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G8,Sample 1,Target 1,0,No Amp,UNKNOWN,14.653,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+G9,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H1,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H10,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H11,Sample 1,Target 1,0,No Amp,UNKNOWN,22.148,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H12,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H13,Sample 1,Target 1,2.11,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H14,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H15,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H16,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H18,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H2,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H24,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H3,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H4,Sample 1,Target 1,0,No Amp,UNKNOWN,39.109,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H5,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H6,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H7,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H8,Sample 1,Target 1,0,No Amp,UNKNOWN,3.045,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+H9,Sample 1,Target 1,0,No Amp,UNKNOWN,31.446,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I1,Sample 1,Target 1,0,No Amp,UNKNOWN,35.528,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I10,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I11,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I12,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I13,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I14,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I15,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I16,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I18,Sample 1,Target 1,0,No Amp,UNKNOWN,4.192,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I2,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I24,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I3,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I4,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I5,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I6,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I7,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I8,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+I9,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J1,Sample 1,Target 1,1.903,Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,32,FALSE
+J10,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J11,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J12,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J13,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J14,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J15,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J16,Sample 1,Target 1,0,No Amp,UNKNOWN,11.052,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J18,Sample 1,Target 1,0,No Amp,UNKNOWN,36.228,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J2,Sample 1,Target 1,0,No Amp,UNKNOWN,18.036,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J20,Sample 1,Target 1,1.665,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J22,Sample 1,Target 1,0,No Amp,UNKNOWN,8.602,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J24,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J3,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J4,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J5,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J6,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J7,Sample 1,Target 1,0,No Amp,UNKNOWN,37.883,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J8,Sample 1,Target 1,0,No Amp,UNKNOWN,35.801,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+J9,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K1,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K10,Sample 1,Target 1,0,No Amp,UNKNOWN,9.05,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K11,Sample 1,Target 1,0.952,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K12,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K13,Sample 1,Target 1,1.319,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K14,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K15,Sample 1,Target 1,0,No Amp,UNKNOWN,29.117,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K16,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K18,Sample 1,Target 1,0,No Amp,UNKNOWN,10.576,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K2,Sample 1,Target 1,0,No Amp,UNKNOWN,34.254,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K21,Sample 1,Target 1,0,No Amp,UNKNOWN,26.081,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K24,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K3,Sample 1,Target 1,0,No Amp,UNKNOWN,23.29,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K4,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K5,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K6,Sample 1,Target 1,0,No Amp,UNKNOWN,13.237,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K7,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K8,Sample 1,Target 1,0,No Amp,UNKNOWN,16.023,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+K9,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L1,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L10,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L11,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L12,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L13,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L14,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L15,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L16,Sample 1,Target 1,0,No Amp,UNKNOWN,11.057,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L18,Sample 1,Target 1,0,No Amp,UNKNOWN,10.69,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L2,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L24,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L3,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L4,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L5,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L6,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L7,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L8,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+L9,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M1,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M10,Sample 1,Target 1,0,No Amp,UNKNOWN,7.423,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M11,Sample 1,Target 1,1.089,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M12,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M13,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M14,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M15,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M16,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M18,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M2,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M24,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M3,Sample 1,Target 1,0,No Amp,UNKNOWN,33.14,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M4,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M5,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M6,Sample 1,Target 1,0,No Amp,UNKNOWN,34.644,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M7,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M8,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+M9,Sample 1,Target 1,0,No Amp,UNKNOWN,8.885,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N1,Sample 1,Target 1,0,No Amp,UNKNOWN,37.911,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N10,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N11,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N12,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N13,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N14,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N15,Sample 1,Target 1,0,No Amp,UNKNOWN,18.348,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N16,Sample 1,Target 1,0,No Amp,UNKNOWN,27.052,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N18,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N19,Sample 1,Target 1,0,No Amp,UNKNOWN,30.314,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N2,Sample 1,Target 1,0,No Amp,UNKNOWN,36.449,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N24,Sample 1,Target 1,0,No Amp,UNKNOWN,36.77,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N3,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N4,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N5,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N6,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N7,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N8,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+N9,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O1,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O10,Sample 1,Target 1,0,No Amp,UNKNOWN,7.69,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O11,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O12,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O13,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O14,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O15,Sample 1,Target 1,0,No Amp,UNKNOWN,6.331,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O16,Sample 1,Target 1,0,No Amp,UNKNOWN,38.655,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O17,Sample 1,Target 1,0,No Amp,UNKNOWN,35.578,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O18,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O2,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O20,Sample 1,Target 1,0,No Amp,UNKNOWN,37.011,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O23,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O24,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O3,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O4,Sample 1,Target 1,0,No Amp,UNKNOWN,19.094,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O5,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O6,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O7,Sample 1,Target 1,0,No Amp,UNKNOWN,23.142,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O8,Sample 1,Target 1,0,No Amp,UNKNOWN,6.184,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+O9,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P1,Sample 1,Target 1,0,No Amp,UNKNOWN,33.198,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P10,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P11,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P12,Sample 1,Target 1,0,No Amp,UNKNOWN,36.759,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P13,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P14,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P15,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P16,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P17,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P18,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P19,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P2,Sample 1,Target 1,0,No Amp,UNKNOWN,37.753,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P20,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P21,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P22,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P23,Sample 1,Target 1,0,No Amp,UNKNOWN,24.083,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P24,Sample 1,Target 1,0,No Amp,UNKNOWN,36.732,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P3,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P4,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P5,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P6,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P7,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P8,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+P9,Sample 1,Target 1,0,No Amp,UNKNOWN,Undetermined,23.692,12.72,-,-,-,-,-,-,-,FALSE,0.062,TRUE,3,39,FALSE
+A1,Sample 1,UBQ10,1.148,Amp,UNKNOWN,21.913,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+A10,Sample 1,UBQ10,1.15,Amp,UNKNOWN,22.198,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+A11,Sample 1,UBQ10,1.147,Amp,UNKNOWN,20.861,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+A12,Sample 1,UBQ10,1.153,Amp,UNKNOWN,20.757,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+A13,Sample 1,UBQ10,1.145,Amp,UNKNOWN,21.789,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+A14,Sample 1,UBQ10,1.137,Amp,UNKNOWN,21.807,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+A15,Sample 1,UBQ10,1.148,Amp,UNKNOWN,21.751,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+A16,Sample 1,UBQ10,1.148,Amp,UNKNOWN,21.715,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+A2,Sample 1,UBQ10,1.152,Amp,UNKNOWN,21.793,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+A3,Sample 1,UBQ10,1.147,Amp,UNKNOWN,21.957,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+A4,Sample 1,UBQ10,1.147,Amp,UNKNOWN,21.975,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+A5,Sample 1,UBQ10,1.135,Amp,UNKNOWN,22.33,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+A6,Sample 1,UBQ10,1.125,Amp,UNKNOWN,22.541,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,19,FALSE
+A7,Sample 1,UBQ10,1.14,Amp,UNKNOWN,24.972,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,21,FALSE
+A8,Sample 1,UBQ10,1.147,Amp,UNKNOWN,24.924,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,21,FALSE
+A9,Sample 1,UBQ10,1.145,Amp,UNKNOWN,22.151,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+B1,Sample 1,UBQ10,1.154,Amp,UNKNOWN,19.775,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+B10,Sample 1,UBQ10,1.148,Amp,UNKNOWN,22.084,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+B11,Sample 1,UBQ10,1.148,Amp,UNKNOWN,20.794,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+B12,Sample 1,UBQ10,1.148,Amp,UNKNOWN,20.931,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+B13,Sample 1,UBQ10,1.144,Amp,UNKNOWN,22.979,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,19,FALSE
+B14,Sample 1,UBQ10,1.146,Amp,UNKNOWN,22.974,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,19,FALSE
+B15,Sample 1,UBQ10,1.132,Amp,UNKNOWN,21.728,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+B16,Sample 1,UBQ10,1.145,Amp,UNKNOWN,21.517,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+B2,Sample 1,UBQ10,1.149,Amp,UNKNOWN,20.036,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+B3,Sample 1,UBQ10,1.148,Amp,UNKNOWN,20.809,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+B4,Sample 1,UBQ10,1.148,Amp,UNKNOWN,20.876,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+B5,Sample 1,UBQ10,1.137,Amp,UNKNOWN,20.354,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+B6,Sample 1,UBQ10,1.14,Amp,UNKNOWN,20.496,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+B7,Sample 1,UBQ10,1.134,Amp,UNKNOWN,22.771,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,19,FALSE
+B8,Sample 1,UBQ10,1.142,Amp,UNKNOWN,22.641,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,19,FALSE
+B9,Sample 1,UBQ10,1.145,Amp,UNKNOWN,21.967,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+C1,Sample 1,UBQ10,1.145,Amp,UNKNOWN,22.228,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+C10,Sample 1,UBQ10,0.967,Amp,UNKNOWN,37.057,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,33,FALSE
+C11,Sample 1,UBQ10,1.166,Amp,UNKNOWN,21.822,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+C12,Sample 1,UBQ10,1.167,Amp,UNKNOWN,21.935,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+C13,Sample 1,UBQ10,1.159,Amp,UNKNOWN,20.013,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+C14,Sample 1,UBQ10,1.157,Amp,UNKNOWN,20.115,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+C15,Sample 1,UBQ10,0.988,Amp,UNKNOWN,36.926,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,33,FALSE
+C16,Sample 1,UBQ10,1.097,Amp,UNKNOWN,35.97,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,32,FALSE
+C2,Sample 1,UBQ10,1.156,Amp,UNKNOWN,22.115,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+C3,Sample 1,UBQ10,1.153,Amp,UNKNOWN,20.256,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+C4,Sample 1,UBQ10,1.161,Amp,UNKNOWN,20.066,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+C5,Sample 1,UBQ10,1.14,Amp,UNKNOWN,20.293,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+C6,Sample 1,UBQ10,1.143,Amp,UNKNOWN,20.262,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+C7,Sample 1,UBQ10,0.912,Amp,UNKNOWN,37.405,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,33,FALSE
+C8,Sample 1,UBQ10,1.089,Amp,UNKNOWN,36.039,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,32,FALSE
+C9,Sample 1,UBQ10,1.144,Amp,UNKNOWN,34.713,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,31,FALSE
+D1,Sample 1,UBQ10,1.161,Amp,UNKNOWN,21.034,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+D10,Sample 1,UBQ10,0,No Amp,UNKNOWN,Undetermined,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,39,FALSE
+D11,Sample 1,UBQ10,1.143,Amp,UNKNOWN,21.073,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+D12,Sample 1,UBQ10,1.143,Amp,UNKNOWN,21.156,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+D13,Sample 1,UBQ10,1.121,Amp,UNKNOWN,20.591,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+D14,Sample 1,UBQ10,1.138,Amp,UNKNOWN,20.524,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+D15,Sample 1,UBQ10,0.982,Amp,UNKNOWN,36.839,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,33,FALSE
+D16,Sample 1,UBQ10,0.99,Amp,UNKNOWN,36.744,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,33,FALSE
+D2,Sample 1,UBQ10,1.158,Amp,UNKNOWN,20.888,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+D3,Sample 1,UBQ10,1.143,Amp,UNKNOWN,34.839,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,31,FALSE
+D4,Sample 1,UBQ10,1.075,Amp,UNKNOWN,36.228,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,32,FALSE
+D5,Sample 1,UBQ10,1.141,Amp,UNKNOWN,21.177,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+D6,Sample 1,UBQ10,1.142,Amp,UNKNOWN,21.169,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+D7,Sample 1,UBQ10,1.134,Amp,UNKNOWN,35.279,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,31,FALSE
+D8,Sample 1,UBQ10,1.074,Amp,UNKNOWN,36.277,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,32,FALSE
+D9,Sample 1,UBQ10,0.929,Inconclusive,UNKNOWN,37.608,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,34,FALSE
+E1,Sample 1,UBQ10,1.139,Amp,UNKNOWN,22.442,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,18,FALSE
+E10,Sample 1,UBQ10,0.988,Amp,UNKNOWN,36.736,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,33,FALSE
+E2,Sample 1,UBQ10,1.143,Amp,UNKNOWN,21.396,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,17,FALSE
+E3,Sample 1,UBQ10,1.144,Amp,UNKNOWN,20.066,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+E4,Sample 1,UBQ10,1.14,Amp,UNKNOWN,19.9,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,16,FALSE
+E5,Sample 1,UBQ10,1.145,Amp,UNKNOWN,30.929,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,27,FALSE
+E6,Sample 1,UBQ10,1.14,Amp,UNKNOWN,34.701,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,31,FALSE
+E7,Sample 1,UBQ10,1.088,Amp,UNKNOWN,35.804,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,32,FALSE
+E8,Sample 1,UBQ10,1.074,Amp,UNKNOWN,36.219,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,32,FALSE
+E9,Sample 1,UBQ10,0.891,Amp,UNKNOWN,37.419,25.239,6.534,-,-,-,-,-,-,-,TRUE,0.069,TRUE,3,33,FALSE
