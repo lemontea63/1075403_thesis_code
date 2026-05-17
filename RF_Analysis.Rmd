@@ -1,0 +1,114 @@
+---
+title: "RF_Analysis_Percentage"
+author: "Oliver Eyre"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(tidyr)
+library(ggplot2)
+library(ragg)
+```
+
+```{r}
+Pp_L_raw_data <- read.csv("Pp-L_30.01.csv")
+  Pp_L_raw_data$PlateName <- as.character(Pp_L_raw_data$PlateName)
+  
+  class(Pp_L_raw_data$PlateName)
+
+Pp_L_clean <- Pp_L_raw_data[complete.cases(Pp_L_raw_data$Timepoint),] %>% 
+   mutate(PlateName = case_when(
+PlateName == "Plate1" ~ "PpPCO (Late peak)")) %>% 
+     select(-Row, -Column, -X1442.73, -X1474.73, -Injection.Time..sec., -Turnover)
+
+Pu_raw_data <- read.csv("Pu_30.01.csv")
+  Pu_raw_data$PlateName <- as.character(Pu_raw_data$PlateName)
+  
+  class(Pu_raw_data$PlateName)
+
+Pu_clean <- Pu_raw_data[complete.cases(Pu_raw_data$Timepoint),] %>% 
+   mutate(PlateName = case_when(
+PlateName == "Plate2" ~ "PuPCO")) %>% 
+   select(-Row, -Column, -X1442.73, -X1474.73, -Injection.Time..sec., -Turnover)
+
+Gc_raw_data <- read.csv("Gc_30.01.csv")
+ Gc_raw_data$PlateName <- as.character(Gc_raw_data$PlateName)
+  
+  class(Gc_raw_data$PlateName)
+
+Gc_clean <- Gc_raw_data[complete.cases(Gc_raw_data$Timepoint),] %>% 
+   mutate(PlateName = case_when(
+PlateName == "Plate2" ~ "GcPCO")) %>% 
+  select(-Row, -Column, -X1442.73, -X1474.73, -Injection.Time..sec., -Turnover)
+
+Fs_L_raw_data <- read.csv("Fs-l_30.01.csv")
+Fs_L_raw_data$PlateName <- as.character(Fs_L_raw_data$PlateName)
+  
+  class(Fs_L_raw_data$PlateName)
+
+Fs_L_clean <- Fs_L_raw_data[complete.cases(Fs_L_raw_data$Timepoint),] %>% 
+   mutate(PlateName = case_when(
+PlateName == "30.01.26_FsPCO_sml_lrg_wash" ~ "FsPCO (Late peak)")) %>% 
+     select(-Row, -Column, -X1442.73, -X1474.73, -Injection.Time..sec., -Turnover)
+```
+
+```{r}
+combined_ox_data <- bind_rows(Pp_L_clean, Pu_clean, Gc_clean, Fs_L_clean) 
+
+combined_ox_data$X..Oxidation <- gsub("%", "", combined_ox_data$X..Oxidation) 
+
+combined_ox_data$X..Oxidation <-
+  parse_number(combined_ox_data$X..Oxidation)
+
+range(combined_ox_data$X..Oxidation)
+  
+clean_combined_ox_data <- combined_ox_data %>% 
+  subset(EM.MM0 == "EM") %>% 
+  filter(Timepoint == 300) 
+
+plot_ox_data <- clean_combined_ox_data %>% 
+  group_by(PlateName) %>%
+  summarise(
+    mean_oxidation = mean(X..Oxidation, na.rm = TRUE),
+    sd_oxidation = sd(X..Oxidation, na.rm = TRUE),
+    n = n(),
+    se_oxidation = sd_oxidation / sqrt(n),
+    .groups = "drop")
+```  
+
+```{r}
+enzyme_colours <- c("PpPCO (Late peak)" = "blue", "GcPCO" = "magenta4", "PuPCO" = "magenta3", "FsPCO (Late peak)" = "darkorange2")
+
+bar_plot <- ggplot(plot_ox_data, aes(x = PlateName, y = mean_oxidation, fill = PlateName)) + 
+  geom_col() +
+  labs(x = "Enzyme", y = "Percentage Oxidation", fill = "Enzyme") +
+  geom_errorbar(aes(ymin = mean_oxidation - se_oxidation,
+                    ymax = mean_oxidation + se_oxidation),
+                width = 0.2) +
+  geom_jitter(data = clean_combined_ox_data,
+              aes(x = PlateName,
+                  y = X..Oxidation),
+              width = 0.4,
+              alpha = 0.75,
+              size = 2,
+              seed = 0,
+              inherit.aes = FALSE) + 
+  scale_colour_manual(values = enzyme_colours) +
+  scale_fill_manual(values = enzyme_colours) +
+  theme_minimal() +
+  theme(text = element_text(family = "Arial"))
+
+bar_plot
+
+agg_png("figures/pct_ox.png", 
+        width = 30,
+        height = 20,
+        units = "cm",
+        res = 300,
+        scaling = 2)
+
+print(bar_plot)
+dev.off()
+```
