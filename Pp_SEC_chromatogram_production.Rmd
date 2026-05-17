@@ -1,0 +1,103 @@
+---
+title: "SEC_Chromatogram_Production"
+author: "Oliver Eyre"
+date: "2026-02-27"
+output: html_document
+---
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(scales)
+library(readr)
+library(tidyverse)
+library(here)
+library(ragg)
+```
+
+```{r}
+SEC_raw_data <- read.csv(here("SEC", "SEC_PpPCO_17.10.25_001.csv"))
+SEC_vars <- c("UV_ml", "UV_mAU", "Fraction_ml", "Fraction")
+SEC_data <- SEC_raw_data[SEC_vars]
+colnames(SEC_data) <- c("UV_ml", "UV_mAU", "Fraction_ml", "Fraction_ID")
+
+summary(SEC_data)
+
+```
+
+```{r}
+uv_data <- SEC_data %>%
+  filter(!is.na(UV_ml) & !is.na(UV_mAU)) %>%
+  distinct()
+
+fraction_lines <- SEC_data %>%
+  filter(!is.na(Fraction_ml) & !is.na(Fraction_ID)) %>%
+  distinct(Fraction_ID, Fraction_ml)
+
+# Convert Fraction_ID to numeric for filtering even numbers
+fraction_lines <- fraction_lines %>%
+  mutate(Fraction_ID_num = as.numeric(Fraction_ID))
+
+fractions_needed <- fraction_lines %>% 
+  filter(Fraction_ml >95 & Fraction_ml <180)
+
+small_fractions_taken <- fraction_lines %>% 
+  filter(Fraction_ID >20 & Fraction_ID <31) %>% 
+  filter_out(Fraction_ID == 3)
+
+big_fractions_taken <- fraction_lines %>% 
+  filter(Fraction_ID >30 & Fraction_ID <43) %>% 
+  filter_out(Fraction_ID == 4)
+
+```
+
+```{r Setting data limits}
+uv_max <- max(uv_data$UV_mAU, na.rm = TRUE)
+uv_min <- (uv_data$UV_mAU <5)
+uv_max_rounded <- ceiling(uv_max / 50) * 50
+
+x_min <- min(fractions_needed$Fraction_ml)
+x_max <- max(fractions_needed$Fraction_ml)
+```
+
+```{r}
+Pp_SEC_plot <- ggplot() +
+  geom_line(data = uv_data, aes(x = UV_ml, y = UV_mAU), color = "magenta4", linewidth = 1.2) +
+  geom_vline(data = small_fractions_taken, aes(xintercept = Fraction_ml), linetype = "dotted", color = "cyan4", linewidth = 0.8) +
+  geom_vline(data = big_fractions_taken, aes(xintercept = Fraction_ml), linetype = "dotted", color = "orange2", linewidth = 0.8) +
+  scale_x_continuous(name = "Volume Eluted (ml)",
+                     breaks = seq(90, 190, 5),
+                     limits = c(x_min, x_max)) +
+  coord_cartesian(xlim = c(x_min, x_max)) +
+  scale_y_continuous(
+    name = "UV Absorbance (mAU)",
+    limits = c(0, uv_max_rounded)
+  ) +
+  theme(
+    panel.background = element_blank(),
+    panel.grid = element_blank(),
+    axis.line = element_line(color = "black"),
+    axis.title.x = element_text(size = 16, margin = margin(t = 10)),
+    axis.title.y = element_text(color = "black", size = 16),
+    axis.text.x = element_text(angle = 90, vjust = 0.5, size = 19),
+    axis.text.y = element_text(color = "magenta4", size = 19),
+    plot.margin = margin(10, 10, 10, 10)
+  )
+
+Pp_SEC_plot
+```
+
+```{r Printing Figure}
+
+agg_png("figures/PpPCO_SEC_Chromatogram.png", 
+        width = 40,
+        height = 20,
+        units = "cm",
+        res = 300,
+        scaling = 1.75)
+
+print(Pp_SEC_plot)
+dev.off()
+
+```
+
